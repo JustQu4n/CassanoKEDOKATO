@@ -10,9 +10,7 @@ console.log(`Nothing impossible!`);
 CassanoQuan/CassanoQuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/cJMlR1SsCSkUjVY3iK/giphy.gif" width="100"/>
-</div>
+
 <div  align="center">
 <h1>
 <span> Hi there! My name is Quan</span>
